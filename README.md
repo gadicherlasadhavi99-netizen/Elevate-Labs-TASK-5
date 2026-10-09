@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 5: Decision Trees and Random Forests
 **AI & ML Internship — Elevate Labs**
 
@@ -173,3 +174,6 @@ can't easily visualize hundreds of trees), slower to train and predict
 (especially with many/deep trees), can still overfit on very noisy data
 if trees are too deep and too correlated, and the model files can become
 large in memory for big forests.
+=======
+# Elevate-Labs-TASK-5
+>>>>>>> ef9ed631b879c4bc959c727dd8e48dadd668242c
